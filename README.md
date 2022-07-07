@@ -2,6 +2,8 @@
 
 Original repo and Readme.md [here](https://github.com/x89/Shreddit).
 
+# No longer updated as of 1/7/22. Please see [this](https://github.com/pythonInRelay/Shreddit/issues/17), for a list of alternatives.
+
 # Donation
 
 ### If you wish to support development and bugfixing of this script or any others I work on please consider a donation
